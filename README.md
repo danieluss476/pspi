@@ -32,7 +32,7 @@ Nasze projekty:
 1. D Stoltmann
 1. AM Szostak
 1. [Magdalena Sawicka](https://github.com/msawicka), [projekt](https://github.com/msawicka/worktime)
-1. D Uss
+1. [Daniel Uss](https://github.com/danieluss476/niezeszyt)
 1. [Jakub Wałek](https://github.com/qbaw), [projekty](https://github.com/qbaw/projekty)
 1. A Wróblewska
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
