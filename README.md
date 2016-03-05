@@ -28,10 +28,11 @@ Nasze projekty:
 1. [Maria Pieper](https://github.com/borowianka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. J Rajewicz
+1. J Rajewicz
 1. [Damian Stoltmann](https://github.com/damiansto).
-1. [Anna Szostak](https://github.com/aniamaria).
+1. AM Szostak
 1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
-1. [D Uss](https://github.com/danieluss476).
+1. [D Uss](https://github.com/danieluss476).[Moje notatki z zajęć](https://github.com/danieluss476/niezeszyt).
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
 1. A Wróblewska
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
