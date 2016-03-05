@@ -16,7 +16,7 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 Nasze projekty:
 
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
-1. [Marek Andrzejewski](https://github.com/marekug) 
+1. MJ Andrzejewski
 1. [Ewa Barczak](https://github.com/ewagrzywka)
 1. AA Bemke
 1. K Idziak
@@ -26,13 +26,13 @@ Nasze projekty:
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/)
 1. EM Ostrowska-Janczak
 1. MH Pieper
-1. [Marcin Puciato](https://github.com/mpuciato)
+1. M Puciato
 1. J Rajewicz
 1. J Rajewicz
 1. D Stoltmann
 1. AM Szostak
 1. M Sawicka
-1. D Uss
+1. [D Uss](https://github.com/danieluss476)
 1. J Wałek
 1. A Wróblewska
 1. [R Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
